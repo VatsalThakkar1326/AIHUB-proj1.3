@@ -1,10 +1,5 @@
 #Blue Sky
 
-Steps to Run Locally
-Clone the repository:
-
-git clone <repository_url>
-cd <repository_name>
 Set up a virtual environment:
 
 python -m venv venv
